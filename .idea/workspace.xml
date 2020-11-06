@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="782e3792-aadc-4848-b988-605bbe2c0437" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TestNG Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gKYvrenJhJMFprEoSenyLn7YII" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="TestNG" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Groovy JUnit" value="com.automationanywhere.botcommand.samples.commands.basic.Authenticate" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.TestNG" value="" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/FuzzyMatchBot" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.27126437" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.automationanywhere.botcommand.samples.commands.basic" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+      <recent name="com.automationanywhere.botcommand.samples.commands.basic.Authenticate" />
+      <recent name="groovy.util.GroovyTestCase" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="782e3792-aadc-4848-b988-605bbe2c0437" name="Default Changelist" comment="" />
+      <created>1597864984753</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597864984753</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="689" y="311" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1597953857169">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="689" y="311" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1597953857169" />
+    <state x="697" y="213" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1597869354809">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="697" y="213" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1597869354809" />
+    <state x="722" y="393" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1598300347407">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="722" y="393" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1598300347407" />
+    <state x="740" y="279" key="FileChooserDialogImpl" timestamp="1602877237075">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="279" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1602877237075" />
+    <state x="463" y="166" key="SettingsEditor" timestamp="1598363347948">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="463" y="166" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1598363347948" />
+    <state x="935" y="369" key="com.intellij.ide.util.TipDialog" timestamp="1599575188905">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="935" y="369" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1599575188905" />
+    <state x="687" y="490" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1598031140880">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="687" y="490" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1598031140880" />
+    <state x="642" y="241" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1597954016946">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="642" y="241" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1597954016946" />
+    <state x="-1415" y="131" width="1555" height="731" key="dock-window-1" timestamp="1597953038548">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1415" y="131" width="1555" height="731" key="dock-window-1/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1597953038548" />
+    <state x="953" y="0" width="974" height="1047" key="dock-window-2" timestamp="1598031787670">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="0" width="1555" height="731" key="dock-window-2/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1598031759651" />
+    <state x="953" y="0" width="974" height="1047" key="dock-window-2/0.0.1920.1040@0.0.1920.1040" timestamp="1598031787670" />
+    <state x="-1275" y="122" width="1653" height="731" maximized="true" key="dock-window-3" timestamp="1598302706178">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1275" y="122" width="1653" height="731" maximized="true" key="dock-window-3/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1598302706178" />
+    <state x="-1659" y="0" width="1653" height="1023" key="dock-window-4" timestamp="1598368329448">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1659" y="0" width="1653" height="1023" key="dock-window-4/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1598368329448" />
+    <state x="-1637" y="60" width="1653" height="686" maximized="true" key="dock-window-5" timestamp="1598378387058">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1637" y="60" width="1653" height="686" maximized="true" key="dock-window-5/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1598378387058" />
+  </component>
+</project>
