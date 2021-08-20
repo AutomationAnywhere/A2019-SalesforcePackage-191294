@@ -142,7 +142,6 @@ public class InsertObject {
         } catch (Exception e) {
             //including full payload of error so user has full understanding of response from the API
             result = result + " Exception Occured: " + e.getMessage() + "|| Payload Sent:" + requestBodyString + " || Response Content: " + responseContent.toString() ;
-            e.printStackTrace();
         } finally {
             //Return StringValue.
             return new StringValue(result);

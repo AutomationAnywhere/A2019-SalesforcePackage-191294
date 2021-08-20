@@ -133,7 +133,6 @@ public class DeleteObject {
         } catch (Exception e) {
             //Setting full error message if try block failed to whatever result was currently set to + the exception message
             result = result + " Exception Occured: " + e.getMessage();
-            e.printStackTrace();
         } finally {
             //Return StringValue - could be success or failure depending on execution
             return new StringValue(result);

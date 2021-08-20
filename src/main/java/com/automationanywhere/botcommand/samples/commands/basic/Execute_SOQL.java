@@ -113,8 +113,6 @@ public class Execute_SOQL {
             //reading response is complete, closer the reader
             reader.close();
 
-            System.out.println(responseContent.toString());
-            //parse(responseContent.toString());
             try {
                 JSONObject response = new JSONObject(responseContent.toString());
                 result = responseContent.toString();
@@ -126,7 +124,6 @@ public class Execute_SOQL {
         } catch (Exception e) {
             //send user result + error message should something fail in the try block
             result = result + " Error/Exception Occured: " + e.getMessage();
-            e.printStackTrace();
         } finally {
             //disconnect connection
             connection.disconnect();
