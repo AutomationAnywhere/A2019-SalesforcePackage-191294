@@ -159,7 +159,6 @@ public class UpdateObject {
 
         } catch (Exception e) {
             result = result + " Exception Occured: " + e.getMessage();
-            e.printStackTrace();
         } finally {
             //Return StringValue.
             return new StringValue(result);

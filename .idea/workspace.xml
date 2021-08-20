@@ -1,7 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="782e3792-aadc-4848-b988-605bbe2c0437" name="Default Changelist" comment="" />
+    <list default="true" id="782e3792-aadc-4848-b988-605bbe2c0437" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/SalesforcePackage.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/SalesforcePackage.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/SalesforcePackage.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileContent/fileContent.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/automationanywhere/botcommand/samples/commands/basic/Authenticate.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/automationanywhere/botcommand/samples/commands/basic/Authenticate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/automationanywhere/botcommand/samples/commands/basic/DeleteObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/automationanywhere/botcommand/samples/commands/basic/DeleteObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/automationanywhere/botcommand/samples/commands/basic/Execute_SOQL.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/automationanywhere/botcommand/samples/commands/basic/Execute_SOQL.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/automationanywhere/botcommand/samples/commands/basic/InsertObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/automationanywhere/botcommand/samples/commands/basic/InsertObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/automationanywhere/botcommand/samples/commands/basic/UpdateObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/automationanywhere/botcommand/samples/commands/basic/UpdateObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/libs/SalesforcePackage-2.0.5.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/SalesforcePackage-2.0.5.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/automationanywhere/botcommand/samples/commands/basic/Authenticate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/automationanywhere/botcommand/samples/commands/basic/Authenticate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/automationanywhere/botcommand/samples/commands/basic/DeleteObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/automationanywhere/botcommand/samples/commands/basic/DeleteObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/automationanywhere/botcommand/samples/commands/basic/Execute_SOQL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/automationanywhere/botcommand/samples/commands/basic/Execute_SOQL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/automationanywhere/botcommand/samples/commands/basic/InsertObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/automationanywhere/botcommand/samples/commands/basic/InsertObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/automationanywhere/botcommand/samples/commands/basic/UpdateObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/automationanywhere/botcommand/samples/commands/basic/UpdateObject.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +48,26 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="SalesforcePackage" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -23,22 +76,31 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1gKYvrenJhJMFprEoSenyLn7YII" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ACTIVE_CLOUD_PROJECT_ACCOUNT" value="micah.smith@automationanywhere.com" />
+    <property name="ACTIVE_CLOUD_PROJECT_ID" value="gcp-enterprise-pm" />
+    <property name="ACTIVE_CLOUD_PROJECT_NAME" value="gcp-enterprise-pm" />
+    <property name="ACTIVE_CLOUD_PROJECT_NUMBER" value="664426365512" />
     <property name="Downloaded.Files.Path.Enabled" value="true" />
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.google.cloudcode.ide_session_index" value="20210820_0000" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="TestNG" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Groovy JUnit" value="com.automationanywhere.botcommand.samples.commands.basic.Authenticate" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.TestNG" value="" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/FuzzyMatchBot" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.27126437" />
@@ -56,6 +118,42 @@
       <recent name="groovy.util.GroovyTestCase" />
     </key>
   </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="gradle clean build shadowJar" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="A2019-SalesforcePackage-191294 [clean build shadowJar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+            <option value="build" />
+            <option value="shadowJar" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.A2019-SalesforcePackage-191294 [clean build shadowJar]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -69,59 +167,16 @@
     </task>
     <servers />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="689" y="311" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1597953857169">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="689" y="311" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1597953857169" />
-    <state x="697" y="213" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1597869354809">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="697" y="213" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1597869354809" />
-    <state x="722" y="393" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1598300347407">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="722" y="393" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1598300347407" />
-    <state x="740" y="279" key="FileChooserDialogImpl" timestamp="1602877237075">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="740" y="279" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1602877237075" />
-    <state x="463" y="166" key="SettingsEditor" timestamp="1598363347948">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="463" y="166" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1598363347948" />
-    <state x="935" y="369" key="com.intellij.ide.util.TipDialog" timestamp="1599575188905">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="935" y="369" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1599575188905" />
-    <state x="687" y="490" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1598031140880">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="687" y="490" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1598031140880" />
-    <state x="642" y="241" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1597954016946">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="642" y="241" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1597954016946" />
-    <state x="-1415" y="131" width="1555" height="731" key="dock-window-1" timestamp="1597953038548">
-      <screen x="-1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="-1415" y="131" width="1555" height="731" key="dock-window-1/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1597953038548" />
-    <state x="953" y="0" width="974" height="1047" key="dock-window-2" timestamp="1598031787670">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="0" y="0" width="1555" height="731" key="dock-window-2/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1598031759651" />
-    <state x="953" y="0" width="974" height="1047" key="dock-window-2/0.0.1920.1040@0.0.1920.1040" timestamp="1598031787670" />
-    <state x="-1275" y="122" width="1653" height="731" maximized="true" key="dock-window-3" timestamp="1598302706178">
-      <screen x="-1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="-1275" y="122" width="1653" height="731" maximized="true" key="dock-window-3/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1598302706178" />
-    <state x="-1659" y="0" width="1653" height="1023" key="dock-window-4" timestamp="1598368329448">
-      <screen x="-1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="-1659" y="0" width="1653" height="1023" key="dock-window-4/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1598368329448" />
-    <state x="-1637" y="60" width="1653" height="686" maximized="true" key="dock-window-5" timestamp="1598378387058">
-      <screen x="-1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="-1637" y="60" width="1653" height="686" maximized="true" key="dock-window-5/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1598378387058" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

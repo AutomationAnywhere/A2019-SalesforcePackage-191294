@@ -4,8 +4,8 @@
     "description": "[[description]]",
     "group": "com.automationanywhere",
     "artifactName": "SalesforcePackage",
-    "packageVersion": "2.0.5-20201105-131924",
-    "codeVersion": "2.0.5-20201105-131924",
+    "packageVersion": "2.0.5-20210820-083959",
+    "codeVersion": "2.0.5-20210820-083959",
     "commands": [
         {
             "name": "authenticate",

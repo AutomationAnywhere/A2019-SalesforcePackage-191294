@@ -10,7 +10,7 @@
         <module name="SalesforcePackage.main" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
+    <bytecodeTargetLevel target="11">
       <module name="A2019DemoPackage.main" target="11" />
       <module name="A2019DemoPackage.test" target="11" />
     </bytecodeTargetLevel>

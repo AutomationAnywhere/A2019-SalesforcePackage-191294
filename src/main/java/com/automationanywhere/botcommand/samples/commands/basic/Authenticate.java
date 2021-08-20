@@ -146,8 +146,6 @@ public class Authenticate {
             //reading response is complete, closer the reader
             reader.close();
 
-            System.out.println(responseContent.toString());
-            //parse(responseContent.toString());
             JSONObject response = new JSONObject(responseContent.toString());
 
             if (response.has("access_token")) {
@@ -162,7 +160,6 @@ public class Authenticate {
         } catch (Exception e) {
             //should any error occur in try block, appending Exception occured + message so user can fully understand what may have happened.
             access_token = access_token + " Exception Occured: " + e.getMessage();
-            e.printStackTrace();
         } finally {
             //disconnect connection
             connection.disconnect();
