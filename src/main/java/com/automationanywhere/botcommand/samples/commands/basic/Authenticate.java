@@ -149,8 +149,8 @@ public class Authenticate {
             JSONObject response = new JSONObject(responseContent.toString());
 
             if (response.has("access_token")) {
-                access_token = response.getString("access_token");
-                sessionValues.put("access_token", access_token);
+                access_token = "Successfully Authenticated";
+                sessionValues.put("access_token", response.getString("access_token"));
                 //sessionMap.put("access_token", access_token);
             } else {
                 //if error occured - indicate error to user and send full responseContent (message from salesforce) so they can see what might be wrong
@@ -159,7 +159,7 @@ public class Authenticate {
 
         } catch (Exception e) {
             //should any error occur in try block, appending Exception occured + message so user can fully understand what may have happened.
-            access_token = access_token + " Exception Occured: " + e.getMessage();
+            access_token = "Exception Occured: " + e.getMessage();
         } finally {
             //disconnect connection
             connection.disconnect();
