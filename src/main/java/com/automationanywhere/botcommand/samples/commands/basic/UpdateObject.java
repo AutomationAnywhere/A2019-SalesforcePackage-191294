@@ -111,7 +111,7 @@ public class UpdateObject {
 
             if(insertDictionary.size() > 0){
                 //Building JSON with input values to later be converted to StringEntity for URL Encoding
-                JSONObject insertJSON = new JSONObject();
+                org.json.JSONObject insertJSON = new org.json.JSONObject();
                 for (Map.Entry<String,Value> entry: insertDictionary.entrySet())
                     insertJSON.put(entry.getKey(),entry.getValue());
                 // go from JSON to String to Encode
