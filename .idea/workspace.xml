@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="782e3792-aadc-4848-b988-605bbe2c0437" name="Default Changelist" comment="removed token from auth response" />
+    <list default="true" id="782e3792-aadc-4848-b988-605bbe2c0437" name="Default Changelist" comment="removed token from auth response">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/automationanywhere/botcommand/samples/commands/basic/UpdateObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/automationanywhere/botcommand/samples/commands/basic/UpdateObject.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,12 +69,12 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="com.google.cloudcode.ide_session_index" value="20210823_0002" />
+    <property name="com.google.cloudcode.ide_session_index" value="20211001_0001" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="TestNG" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Groovy JUnit" value="com.automationanywhere.botcommand.samples.commands.basic.Authenticate" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.TestNG" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../A2019-LoanApprovalPackage-" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.27126437" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
@@ -149,7 +152,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629730269793</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Removed token from auth response">
+      <created>1629999698372</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1629999698372</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -167,6 +177,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="removed stack trace and println statements" />
     <MESSAGE value="removed token from auth response" />
-    <option name="LAST_COMMIT_MESSAGE" value="removed token from auth response" />
+    <MESSAGE value="Removed token from auth response" />
+    <option name="LAST_COMMIT_MESSAGE" value="Removed token from auth response" />
   </component>
 </project>
